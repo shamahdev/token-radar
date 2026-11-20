@@ -1,0 +1,6 @@
+makefun/
+makefun-kit/
+.agents/
+.claude/
+out/
+node_modules/
